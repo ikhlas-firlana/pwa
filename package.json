@@ -1,0 +1,25 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "progressive web app (taste like mobile apps)",
+  "main": "poc/index.js",
+  "engines": {
+    "node": "8.x"
+  },
+  "scripts": {
+    "start": "node poc/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhlas-firlana/pwa.git"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "author": "ikhlas firlana <ifirlana@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikhlas-firlana/pwa/issues"
+  },
+  "homepage": "https://github.com/ikhlas-firlana/pwa#readme"
+}

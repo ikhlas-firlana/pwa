@@ -1,0 +1,8 @@
+{
+    "name": "Start on Heroku: Node.js",
+    "description": "A barebones Node.js app using Express",
+    "repository": "https://github.com/ikhlas-firlana/pwa.git",
+    "logo": "https://github.com/ikhlas-firlana/pwa/poc/public/logo.png",
+    "keywords": ["node", "express", "heroku"],
+    "image": "heroku/nodejs"
+  }
